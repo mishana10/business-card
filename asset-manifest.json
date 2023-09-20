@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bussiness-card/static/css/main.18ea85d4.css",
+    "main.js": "/bussiness-card/static/js/main.5c026592.js",
+    "static/media/foto_Moricova.jpg": "/bussiness-card/static/media/foto_Moricova.639519f7ac742dfbcb4a.jpg",
+    "index.html": "/bussiness-card/index.html",
+    "main.18ea85d4.css.map": "/bussiness-card/static/css/main.18ea85d4.css.map",
+    "main.5c026592.js.map": "/bussiness-card/static/js/main.5c026592.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18ea85d4.css",
+    "static/js/main.5c026592.js"
+  ]
+}
